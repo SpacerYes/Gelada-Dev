@@ -14,7 +14,7 @@ public class dn : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Controllers"))
+        if (collision.gameObject.CompareTag("HandTag"))
         {
             float collisionForce = collision.impulse.magnitude;
 
