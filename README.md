@@ -1,1 +1,2 @@
-# Custom Script in C# for Gelada.
+# Spacer's custom scripts and assets for Gelada.
+
