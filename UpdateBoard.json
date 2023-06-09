@@ -1,34 +1,3 @@
 {
-  "title": "Google",
-  "description": "Google is a multinational technology company that specializes in internet-related services and products. The company was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Google's mission is to organize the world's information and make it universally accessible and useful.",
-  "headquarters": "Mountain View, California, United States",
-  "founders": ["Larry Page", "Sergey Brin"],
-  "ceo": "Sundar Pichai",
-  "website": "https://www.google.com",
-  "products": [
-    {
-      "name": "Google Search",
-      "description": "A web search engine that provides search results based on user queries."
-    },
-    {
-      "name": "Google Maps",
-      "description": "A mapping service that provides detailed maps, satellite imagery, and route planning."
-    },
-    {
-      "name": "YouTube",
-      "description": "A video-sharing platform where users can upload, watch, and interact with videos."
-    },
-    {
-      "name": "Gmail",
-      "description": "An email service that allows users to send, receive, and manage their emails."
-    },
-    {
-      "name": "Android",
-      "description": "A mobile operating system used by various device manufacturers for smartphones, tablets, and other devices."
-    }
-  ],
-  "employees": 150000,
-  "revenue": "US$181.69 billion (2020)",
-  "founding_date": "September 4, 1998",
-  "tags": ["Technology", "Internet", "Search Engine", "Software", "Advertising"]
+  text : "The Quick Brown Fox Jumps Over The Lazy Dog"
 }
